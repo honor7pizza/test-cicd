@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://honor7pizza.github.io/test-cicd/'
 locale = 'en-us'
 title = 'мой новый сайт'
 theme = 'ananke'
